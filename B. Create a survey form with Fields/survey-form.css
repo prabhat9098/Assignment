@@ -1,0 +1,21 @@
+/* Set the background color to blue */
+/* Set the background color to blue */
+body {
+    background-color: #3498db; /* Use the color code or name you prefer */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* Center-align the form and its contents */
+.calculator, .form-group, .form-buttons {
+    background-color: #fff; /* Set the background color for the form elements */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align: center; /* Center-align the content within the form elements */
+}
+
